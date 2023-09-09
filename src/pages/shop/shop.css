@@ -1,5 +1,5 @@
 .shopTitle {
-  margin-top: 100px;
+  margin-top: 50px;
   text-align: center;
   font-size: 40px;
 }
@@ -50,4 +50,16 @@
   background-color: rgb(19, 19, 19);
   color: white;
   cursor: pointer;
+}
+
+.product-footer-wrapper {
+  display: flex;
+}
+
+.product-image {
+  width: 30px;
+  height: 300px;
+}
+.css-1xgjpwf-MuiGrid-root > .MuiGrid-item {
+  padding-left: 67px;
 }
